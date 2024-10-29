@@ -12,3 +12,6 @@ pessoa2 = Pessoa("Maria", "15/01/2001","feminino")
 
 print("Nome", pessoa1.nome,"Data de Nascimento",pessoa1.data_nascimento)
 print("Nome", pessoa2.nome,"Data de Nascimento",pessoa2.data_nascimento)
+
+pessoa1.falar("olá!")
+pessoa2.falar("oi!")
